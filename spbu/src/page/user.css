@@ -1,0 +1,41 @@
+.laman{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+.card1 {
+    width: 20%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 2px;
+    text-align: center;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  .s {
+    border: none;
+    outline: 0;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .k {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  .s:hover, a:hover {
+    opacity: 0.7;
+  }

@@ -10,6 +10,7 @@ import Data from './page/data'
 import Login from './page/login'
 import Register from './page/register'
 import User from './page/user'
+import Maps from './page/maps'
 
 
 class App extends Component{
@@ -24,6 +25,7 @@ class App extends Component{
           <Route path='/login' component={Login}/>
           <Route path='/register' component={Register}/>
           <Route path='/user' component={User}/>
+          <Route path='/maps' component={Maps}/>
         </Switch>
       </div>
     );

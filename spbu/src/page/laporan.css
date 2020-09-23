@@ -1,6 +1,7 @@
 .laporan{
     display: flex;
     flex-wrap: wrap;
+    font-size: 15px;
     margin: 0;
     padding: 0;
 }
@@ -12,4 +13,5 @@
     align-items: center;
     flex-flow: column;
     margin: 20px;
+    margin-bottom: -10px;
 }

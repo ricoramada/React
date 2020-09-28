@@ -12,7 +12,7 @@ function data() {
                         <tr>
                             <th>NO</th>
                             <th>Timestamp</th>
-                            <th>NAMA PELAKSANA</th>
+                            <th>Nama Pelaksana</th>
                             <th>NIK</th>
                             <th>SUMBER WO (WA, CALL, TELEGRAM, NO TIKET)</th>
                             <th>NO SPBU</th>
